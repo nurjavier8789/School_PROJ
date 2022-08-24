@@ -8,14 +8,14 @@ public class test1 { //your class name
         kelas = "X RPL 2";
         
         //statement math
-        Double p,l,luas;
+        double p,l,luas; //we use double for decimal number
         p=10.0;
         l=7.5;
         luas = p*l;
         
 
         //print out identity
-        System.out.println("nama: "+ nama);
+        System.out.println("nama: "+nama);
         System.out.println("Kelas: "+kelas);
         
         //print out math
