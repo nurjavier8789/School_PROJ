@@ -12,6 +12,8 @@ from Telkom Schools Malang
 
 * How to make input text using Scanner > [importscanner.java](https://github.com/nurjavier8789/School_PROJ/blob/main/importscanner.java)
 
-<h2>Example</h2>
+* How to use Statement "for" for repetition > [numberorder.java](https://github.com/nurjavier8789/School_PROJ/blob/main/numberorder.java)
+
+<h2>Another Example</h2>
 
 * Do the Math > [examplemath.java](https://github.com/nurjavier8789/School_PROJ/blob/main/examplemath.java)
