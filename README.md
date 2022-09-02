@@ -17,3 +17,5 @@ from Telkom Schools Malang
 <h2>Another Example</h2>
 
 * Do the Math > [examplemath.java](https://github.com/nurjavier8789/School_PROJ/blob/main/examplemath.java)
+
+* Rock Paper Scissors Game!! > [rps.java](https://github.com/nurjavier8789/School_PROJ/blob/main/rps.java)
