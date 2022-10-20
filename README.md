@@ -14,6 +14,8 @@ from Telkom Schools Malang
 
 * How to use Statement "for" for repetition > [numberorder.java](https://github.com/nurjavier8789/School_PROJ/blob/main/numberorder.java)
 
+* How to use Array (One Dimension) Statement > [arrayOneDimen.java](https://github.com/nurjavier8789/School_PROJ/blob/main/arrayOneDimen.java)
+
 <h2>Another Example</h2>
 
 * Do the Math > [examplemath.java](https://github.com/nurjavier8789/School_PROJ/blob/main/examplemath.java)
