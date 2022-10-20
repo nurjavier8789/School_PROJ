@@ -21,3 +21,5 @@ from Telkom Schools Malang
 * Rock Paper Scissors Game!! > [rps.java](https://github.com/nurjavier8789/School_PROJ/blob/main/rps.java)
 
 * Triangle reflection > [reflectionnumber.java](https://github.com/nurjavier8789/School_PROJ/blob/main/reflectionnumber.java)
+
+* Triangle number > [trianglenumber.java](https://github.com/nurjavier8789/School_PROJ/blob/main/trianglenumber.java)
